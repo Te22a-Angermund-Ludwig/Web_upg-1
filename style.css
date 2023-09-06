@@ -1,0 +1,32 @@
+#Rubrik{
+    
+background-color: yellow;
+color: blue;
+border: 3px solid black;
+text-align: center;
+margin-left: 5%;
+margin-right: 5%;
+}
+
+.bakgrund{
+    height: 1920px;
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+background-image: url("./bilder/showcase.jpg");
+}
+
+#p1{
+background-color: rgb(193, 193, 193);
+height: 330px;
+margin-left: 5%;
+margin-right: 5%;
+text-align: center;
+border: 3px solid black;
+}
+
+img{
+    margin-left: 8%;
+    
+}
+
